@@ -30,7 +30,7 @@
 	<div id="preloder">
 		<div class="loader"></div>
 	</div>
-
+ 	<!-- this line add the sitewide menu -->
 	<?php include 'menu.php' ?>
 
 
